@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CityList</string>
+    <string name="city">City</string>
+    <string name="backtolist">Back to list</string>
+</resources>
